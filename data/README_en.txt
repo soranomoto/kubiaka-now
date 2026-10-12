@@ -1,4 +1,4 @@
-Aromia bungii in Japan: data from Kubiaka no Ima (https://soranomoto.github.io/kubiaka-now/en/), updated 2026-10-12
+Aromia bungii in Japan: data from Kubiaka no Ima (https://soranomoto.github.io/kubiaka-now/en/), updated 2026-10-13
 
 License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Credit 'Kubiaka no Ima' with the URL; reuse, adaptation and commercial use are free.
 Underlying government data: Public Data License (Version 1.0) of the Government of Japan. This dataset is our own reorganisation, not a government publication.
