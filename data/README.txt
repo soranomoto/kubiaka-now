@@ -4,3 +4,4 @@
 kubiaka_shikuchoson.csv 国の防除戦略 参考資料2（2026-09-11）の市町村ごとの区分
 kubiaka_shinki.csv 国の一覧のあとに新たに被害が見つかった地域（通し番号は古い順・足しても変わらない）
 kubiaka_kenshokin.csv 奨励金・報奨金・奨励品（1件ずつ原文を読んだもの）
+JSON で引くとき: https://soranomoto.github.io/kubiaka-now/api/v1/index.json （県ごと・市町村・新たな被害・奨励金・補助・報道のリンク）
